@@ -9,7 +9,7 @@ function App({ isPassedToWithAuthenticator, signOut, user }) {
       <header>
         <img src={logo} className="App-logo" alt="logo" />
         <h1>We now have Auth!</h1>
-        <button onClick={signOut}>Sign out</button>
+        <button onClick={signOut}>A nico le gustan las cariñosas</button>
       </header>
     </div>
   );
